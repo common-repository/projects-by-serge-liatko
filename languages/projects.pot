@@ -1,0 +1,847 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Projects by Serge Liatko\n"
+"POT-Creation-Date: 2016-10-17 11:59+0200\n"
+"PO-Revision-Date: 2016-09-27 15:40+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: projects-by-serge-liatko.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-projects-plugin-admin.php:114
+msgid "Project Link"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:128
+msgctxt "example URL"
+msgid "http://example-domain.com/example-project/"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:130
+msgid "Link URL"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:131
+msgid ""
+"Please, enter here the URL to point the project link to. If left empty the "
+"link will not be displayed."
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:141
+#: admin/class-projects-plugin-admin.php:532 projects-by-serge-liatko.php:298
+msgid "View project"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:143
+msgid "Link text"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:144
+msgid ""
+"Please, enter here the text to use for the project link. If left empty, the "
+"default will be used."
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:155
+msgid "Link title attribute"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:156
+msgid ""
+"Please, enter here the text to use for the project link title attribute. If "
+"left empty, the link text will be used."
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:168
+msgid "Hide project link?"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:169
+msgid ""
+"If you do not want to display the project link on this page - check the box "
+"above."
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:176 projects-by-serge-liatko.php:381
+msgid "After Project Widget Area"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:191
+msgid "Hide widget area?"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:192
+msgid ""
+"If you do not want to display the after project widget area on this page - "
+"check the box above."
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:227
+#: admin/class-projects-plugin-admin.php:279
+msgid "An error occured"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:228
+msgid "some necessary parameters are missing."
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:280
+msgid "type is not recognized."
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:301
+msgid "Project Summary"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:388
+msgid "Projects Plugin Settings"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:389 projects-by-serge-liatko.php:520
+msgid "Settings"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:409
+msgid "Display"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:417
+msgid "Summary"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:423
+msgid "Do not show project summary?"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:424
+msgid ""
+"By default the project summary is shown on singular project pages. If you "
+"for some reason you need to hide it - check the box above."
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:431
+msgid "Display archive links"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:438
+#: admin/class-projects-plugin-admin.php:506
+msgid "Hidden"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:439
+#: admin/class-projects-plugin-admin.php:507
+msgid "Before the content"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:440
+#: admin/class-projects-plugin-admin.php:508
+msgid "After the content"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:443
+msgid ""
+"If you wish to display project archive links, please select the position "
+"you would like them to appear at."
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:450
+msgid "Archive links"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:456
+msgid ""
+"Here you may adjust the archive links display options and positions within "
+"the container individually."
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:463
+msgid "Author link"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:469
+msgid "Display project author link?"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:470
+msgid ""
+"Check this box to display a link to author portfolio (if you are a team and "
+"each member needs a separate portfolio, please note that Display archive "
+"links option above should not be Hidden)."
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:477
+msgid "Author link label"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:490 projects-by-serge-liatko.php:244
+msgid "by"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:492
+msgid ""
+"Please, enter here the text to display before the project author portfolio "
+"link."
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:499
+msgid "Display project links"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:509
+msgid "Both, before and after the content"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:512
+msgid ""
+"If you wish to display project links (buttons), please select the position "
+"you would like it to appear at."
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:519
+msgid "Project link text"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:534
+msgid ""
+"Please, enter here the text to use by default for a project link. This can "
+"be overwritten on per project basis."
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:541
+msgid "Project link classes"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:556
+msgid ""
+"Please, enter here space separated CSS classes you would like to use for "
+"the project links."
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:563
+msgid "Widget Area"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:569
+msgid "Hide after project widget area?"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:570
+msgid ""
+"If checked, the plugin will stop displaying the widget area after content "
+"on singular project pages."
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:577
+msgid "Styling"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:583
+msgid "Do not load plugin stylesheet?"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:584
+msgid ""
+"If checked, the pplugin will stop loading its stylesheet on the front end. "
+"You are free to add your own styles to the stylesheet of your choice."
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:592
+msgid "Permalinks"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:616
+msgid "Author portfolio slug"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:629 projects-by-serge-liatko.php:397
+msgctxt "URL friendly slug"
+msgid "portfolios"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:632
+#, php-format
+msgid ""
+"Please, enter here the slug you would like to use to display projects by "
+"author. The author portfolio URl will look like following: %1$s"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:637
+msgctxt "URL friendly slug"
+msgid "author-name"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:646
+msgid "Uninstall"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:652
+msgid "Clean Database"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:658
+msgid "Clean database upon plugin deinstallation?"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:659
+msgid "DO NOT CHECK THIS BOX! Unless you are ready to get rid of this plugin."
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:664
+msgid "Reset Settings"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:670
+msgid "Reset plugin settings?"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:671
+msgid ""
+"If you wish to reset plugin settings to their defaults, please check this "
+"box and save changes."
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:723
+#, php-format
+msgid "Display archive links for %s?"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:783
+msgid "Here you may adjust the display of your projects."
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:790
+msgid "Here you may reset plugin settings or prepare the plugin for removal."
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:798
+#: includes/classes/class-projects-plugin-content-type.php:248
+msgctxt "URL friendly slug"
+msgid "projects"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:799
+#: includes/classes/class-projects-plugin-content-type.php:161
+msgctxt "URL friendly slug"
+msgid "project-types"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:800
+#: includes/classes/class-projects-plugin-content-type.php:202
+msgctxt "URL friendly slug"
+msgid "project-categories"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:801
+#: includes/classes/class-projects-plugin-content-type.php:79
+msgctxt "URL friendly slug"
+msgid "project-clients"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:802
+#: includes/classes/class-projects-plugin-content-type.php:120
+msgctxt "URL friendly slug"
+msgid "project-collections"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:816
+#: includes/classes/class-projects-plugin-content-type.php:221
+msgctxt "Post Type General Name"
+msgid "Projects"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:825
+msgid "Here you may adjust permalinks for your project pages."
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:879
+msgid "Image"
+msgstr ""
+
+#: admin/class-projects-plugin-admin.php:916
+msgid "Settings reset the their defaults."
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:57
+msgctxt "Taxonomy General Name"
+msgid "Clients"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:58
+msgctxt "Taxonomy Singular Name"
+msgid "Client"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:59
+msgid "Clients"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:60
+msgid "All Clients"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:61
+msgid "Parent Client"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:62
+msgid "Parent Client:"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:63
+msgid "New Client Name"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:64
+msgid "Add New Client"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:65
+msgid "Edit Client"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:66
+msgid "Update Client"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:67
+msgid "View Client"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:68
+msgid "Separate clients with commas"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:69
+msgid "Add or remove clients"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:70
+msgid "Choose from the most used clients"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:71
+msgid "Popular Clients"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:72
+msgid "Search Clients"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:73
+msgid "No clients found"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:74
+msgid "No clients"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:75
+msgid "clients list"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:76
+msgid "clients list navigation"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:98
+msgctxt "Taxonomy General Name"
+msgid "Collections"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:99
+msgctxt "Taxonomy Singular Name"
+msgid "Collection"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:100
+msgid "Collections"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:101
+msgid "All Collections"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:102
+msgid "Parent Collection"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:103
+msgid "Parent Collection:"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:104
+msgid "New Collection Name"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:105
+msgid "Add New Collection"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:106
+msgid "Edit Collection"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:107
+msgid "Update Collection"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:108
+msgid "View Collection"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:109
+msgid "Separate collections with commas"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:110
+msgid "Add or remove collections"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:111
+msgid "Choose from the most used collections"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:112
+msgid "Popular Collections"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:113
+msgid "Search Collections"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:114
+msgid "Not collections found"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:115
+msgid "No collections"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:116
+msgid "collections list"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:117
+msgid "collections list navigation"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:139
+msgctxt "Taxonomy General Name"
+msgid "Types"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:140
+msgctxt "Taxonomy Singular Name"
+msgid "Type"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:141
+msgid "Types"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:142
+msgid "All Types"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:143
+msgid "Parent Type"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:144
+msgid "Parent Type:"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:145
+msgid "New Type Name"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:146
+msgid "Add New Type"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:147
+msgid "Edit Type"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:148
+msgid "Update Type"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:149
+msgid "View Type"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:150
+msgid "Separate types with commas"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:151
+msgid "Add or remove types"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:152
+msgid "Choose from the most used types"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:153
+msgid "Popular Types"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:154
+msgid "Search Types"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:155
+msgid "No types found"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:156
+msgid "No types"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:157
+msgid "types list"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:158
+msgid "types list navigation"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:180
+msgctxt "Taxonomy General Name"
+msgid "Categories"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:181
+msgctxt "Taxonomy Singular Name"
+msgid "Category"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:182
+msgid "Categories"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:183
+msgid "All Categories"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:184
+msgid "Parent Category"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:185
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:186
+msgid "New Category Name"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:187
+msgid "Add New Category"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:188
+msgid "Edit Category"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:189
+msgid "Update Category"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:190
+msgid "View Category"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:191
+msgid "Separate categories with commas"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:192
+msgid "Add or remove categories"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:193
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:194
+msgid "Popular Categories"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:195
+msgid "Search Categories"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:196
+msgid "No categories found"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:197
+msgid "No categories"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:198
+msgid "categories list"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:199
+msgid "categories list navigation"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:222
+msgctxt "Post Type Singular Name"
+msgid "Project"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:223
+msgid "Projects"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:224
+msgctxt "New in Admin menu bar"
+msgid "Project"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:225
+msgid "Project Archives"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:226
+msgid "Parent Project:"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:227
+msgid "All Projects"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:228
+msgid "Add New Project"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:229
+msgctxt "project"
+msgid "Add New"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:230
+msgid "New Project"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:231
+msgid "Edit Project"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:232
+msgid "Update Project"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:233
+msgid "View Project"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:234
+msgid "Search Projects"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:235
+msgid "Not found"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:236
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:237
+msgid "Featured Image"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:238
+msgid "Set featured image"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:239
+msgid "Remove featured image"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:240
+msgid "Use as featured image"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:241
+msgid "Insert into project"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:242
+msgid "Uploaded to this project"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:243
+msgid "Projects list"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:244
+msgid "Projects list navigation"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:245
+msgid "Filter projects list"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:254
+msgid "Project"
+msgstr ""
+
+#: includes/classes/class-projects-plugin-content-type.php:255
+msgid "Current and accoplished projects."
+msgstr ""
+
+#: projects-by-serge-liatko.php:383
+msgid ""
+"Widgets in this area will be shown after the content on singular project "
+"pages."
+msgstr ""
+
+#: projects-by-serge-liatko.php:534
+msgid "Support"
+msgstr ""
+
+#: projects-by-serge-liatko.php:538
+msgid "Donate"
+msgstr ""
+
+#: projects-by-serge-liatko.php:542
+msgid "Rate this plugin"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Projects by Serge Liatko"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Easy way to publish and organize your portfolio online. Show off what you "
+"have done and your current projects. Easy to use, light and flexible."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Serge Liatko"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid ""
+"http://sergeliatko.com/?"
+"utm_source=projects&utm_medium=textlink&utm_content=authorlink&utm_campaign=wpplugins"
+msgstr ""

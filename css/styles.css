@@ -1,0 +1,32 @@
+.project-summary
+{
+	font-size: 1.125em;
+	font-style: italic;
+}
+.project-archive-links,
+.project-link
+{
+	clear: both;
+	margin: 1.5em;
+}
+.project-archive-links p.term-links
+{
+	font-size: 0.875em;
+	font-style: italic;
+	margin-bottom: 0.5em;
+}
+.after-project-widget-area
+{
+	clear: both;
+	margin: 1.5em 0;
+}
+.after-project-widget-area:last-child
+{
+	margin-bottom: 0;
+}
+.after-project-widget-area:before,
+.after-project-widget-area:after
+{
+	content: '';
+	display: table;
+}
